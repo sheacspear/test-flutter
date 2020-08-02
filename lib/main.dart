@@ -61,7 +61,7 @@ class _MyHomePageState extends State<MyHomePage> {
   _MyHomePageState() {
     final ios = defaultTargetPlatform == TargetPlatform.iOS;
 
-    _appSecret = ios ? "iOSGuid" : "AndroidGuid";
+    _appSecret = ios ? "964697e4-623f-43b9-98fb-0edb52d9da2e" : "AndroidGuid";
   }
 
   @override
